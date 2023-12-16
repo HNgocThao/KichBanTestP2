@@ -1,0 +1,102 @@
+{
+  "Test_AddClient": [
+    {
+      "type": "Person",
+      "companyName": "Audrey",
+      "owner": "Sara Ann",
+      "address": "Hoa Cuong",
+      "city": "Ha Noi",
+      "state": "Ha Noi",
+      "zip": "10000",
+      "country": "VietNam",
+      "phone": "09462108xx",
+      "website": "vincent@demo.com",
+      "vat": "10",
+      "gst": "10",
+      "clientGroup": "Gold",
+      "currency": "USD",
+      "currencySymbol": "22.25",
+      "label": "90"
+    },
+    {
+      "type": "Organization",
+      "companyName": "Audrey2",
+      "owner": "Sara Ann",
+      "address": "Hoa Cuong",
+      "city": "Da Nang",
+      "state": "Da Nang",
+      "zip": "10000",
+      "country": "VietNam",
+      "phone": "09462108xx",
+      "website": "vincent@demo.com",
+      "vat": "10",
+      "gst": "10",
+      "clientGroup": "VIP",
+      "currency": "USD",
+      "currencySymbol": "22",
+      "label": "50"
+    }
+  ],
+  "Test_AddLabel": [
+    {
+      "label": "Thầy Bói"
+    },
+    {
+      "label": "Học đồ"
+    }
+  ],
+  "Test_AddProject": [
+    {
+      "title": "Dantes",
+      "project": "Internal Project",
+      "client": "Blaze Rohan",
+      "area": "java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence",
+      "date": "14-12-2023",
+      "deadline": "16-12-2023",
+      "price": "111",
+      "list": "Thầy Bói"
+    },
+    {
+      "title": "Derrick",
+      "project": "Client Project",
+      "client": "Blaze Rohan",
+      "area": "java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence",
+      "date": "15-12-2023",
+      "deadline": "16-12-2023",
+      "price": "111",
+      "list": "Thầy Bói"
+    },{
+      "title": "Fors",
+      "project": "Internal Project",
+      "client": "Blaze Rohan",
+      "area": "java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence",
+      "date": "13-12-2023",
+      "deadline": "17-12-2023",
+      "price": "111",
+      "list": "Học đồ"
+    },{
+      "title": "Emlyn",
+      "project": "Internal Project",
+      "client": "Blaze Rohan",
+      "area": "java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence",
+      "date": "16-12-2023",
+      "deadline": "18-12-2023",
+      "price": "111",
+      "list": "Thầy Bói"
+    },{
+      "title": "Cattleya",
+      "project": "Client Project",
+      "client": "Blaze Rohan",
+      "area": "java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence",
+      "date": "15-12-2023",
+      "deadline": "18-12-2023",
+      "price": "111",
+      "list": "Học đồ"
+    }
+  ],
+  "Test_Search": [
+    {
+    "label": "Thầy Bói"
+    }
+  ]
+}
